@@ -6,8 +6,8 @@
 
 ___
 <h2 align="center"> Github activities </h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nucleus-ffm&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nucleus-ffm&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=true" alt="ovi" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nucleus-ffm&show_icons=true&locale=en&layout=compact&theme=chartreuse-white" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nucleus-ffm&show_icons=true&locale=en&theme=chartreuse-white&include_all_commits=true" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
 <!---
