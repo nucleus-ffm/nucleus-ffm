@@ -4,7 +4,7 @@
 👀 I’m interested in Flutter, Dart, Python, Tensorflow and much more. <br>
 🌱 Always ready for something new
 
-### Current projects: 
+### Current projects
 - **FOSS Warn** - a flutter app to receive emergency alerts - [Repository](https://github.com/nucleus-ffm/foss_warn)
 - **FOSS Public Alert Server** - a server application to aggregate and distribute CAP alerts worldwide - [Repository](https://invent.kde.org/webapps/foss-public-alert-server)
 
